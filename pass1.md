@@ -118,7 +118,7 @@ Skriv ett program som skriver ut triangeln nedan:
 ## Uppgift 8
 Primtalstvillingar kallas två primtal som bara har ett annat tal mellan sig. Exempel på primtalstvillingar är `5, 7`, `11, 13`, `41, 43` osv.
 
-Skriv ett program som använder loopar för att hitta de största primtalstvillingarna under ett visst tal. Såhär ska det Öfungera:
+Skriv ett program som använder loopar för att hitta de största primtalstvillingarna under ett visst tal. Såhär ska det fungera:
 
       $ javac Twins.java
       $ java Twins 70
