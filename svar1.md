@@ -1,13 +1,14 @@
-# Svar till första passet
+# Förslag på lösningar till pass 1
 
 ## Uppgift 1
-Sätt int looparna i ett program och testa!
+Sätt in looparna i ett program och testa!
 
 Skapa en javafil via terminalen:
 
     $ touch TestLoops.java
 
 Klistra in följande
+    
     public class TestLoops {
       public static void main(String[] args) {
         [klistra in loopen här]
