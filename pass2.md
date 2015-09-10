@@ -1,8 +1,8 @@
 # Pass 2
 
-**I det här passet ska vi skapa ett spel som du kan spela i terminalen/kommandopromten, genom att bygga upp det bit för bit med hjälp av klasser och objekt. Använd `System.out.print` och `System.out.println` för att skriva ut spelets händelser.
+**I det här passet ska vi skapa ett spel som du kan spela i terminalen/kommandopromten, genom att bygga upp det bit för bit med hjälp av klasser och objekt. Använd `System.out.print` och `System.out.println` för att skriva ut spelets händelser.**
 
-Innan du börjar, skapa en klass Main med en main-metod för att du ska kunna testa dina nya klasser och kolla så att de fungerar som de ska.**
+**Innan du börjar, skapa en klass Main med en main-metod för att du ska kunna testa dina nya klasser och kolla så att de fungerar som de ska.**
 
 *Jag ber om ursäkt på förhand för all svengelska. Det är svårt att skriva om spel på svenska. Fråga om något känns otydligt*
 
