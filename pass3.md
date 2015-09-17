@@ -17,6 +17,8 @@
 * Literal
 * Inkapsling
 
+## Uppgifter
+
 Arbeta utan dator först. Diskutera runt bordet vad ni tror och varför. Håller ni med varandra? 
 
 När ni kommit överens, testa i datorn. Blev det som ni trodde? Om inte, vad kan det bero på?
@@ -151,7 +153,9 @@ c)  En statisk medlemsmetod kan referera icke statiska variabler i samma klass m
 
 d)  När ett objekt skickas som argumet till en metod så kan metoden ändra objektet.
 
-### Begrepp för kommande veckor
+## Begrepp för kommande veckor
+
+Gör egen research, vad betyder orden?
 
 * Interface
 * Abstrakt klass
