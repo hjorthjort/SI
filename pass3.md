@@ -1,8 +1,21 @@
 # Pass 3
 
-* Equals vs ==
+## Veckans begrepp: vad betyder de?
+
+* Javadoc
+* Identifierare 
+* Modifierare (private/public/static/abstract/etc.)
+* Klass
+* Metod vs funktion
+* Variabel
+* Syntax vs Semantik
+* Rekursion
+* Modularisering
+* Wrapper
 * Scope
 * Arv
+* Literal
+* Inkapsling
 
 Arbeta utan dator först. Diskutera runt bordet vad ni tror och varför. Håller ni med varandra? 
 
@@ -137,6 +150,14 @@ b)  Uttrycket nedan evalueras till sant
 c)  En statisk medlemsmetod kan referera icke statiska variabler i samma klass men endast efter att en instans av klassen skapats.
 
 d)  När ett objekt skickas som argumet till en metod så kan metoden ändra objektet.
+
+### Begrepp för kommande veckor
+
+* Interface
+* Abstrakt klass
+* Delegering
+* Rekursion
+* Exception
 
 ## Om ni får tid över
 
