@@ -21,7 +21,9 @@ Fundera tillsammans ut minst tre begrepp ni lärt er den här veckan.
 Swing!
 ------
 
-<iframe width="420" height="315" src="https://www.youtube.com/embed/m7_94j2qYbk" frameborder="0" allowfullscreen></iframe>
+<a href="https://www.youtube.com/embed/m7_94j2qYbk">
+<img src="http://img.youtube.com/vi/BzQ9KUbfLek/hqdefault.jpg">
+</a>
 
 ### Uppgift 3
 
